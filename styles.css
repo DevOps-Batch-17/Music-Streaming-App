@@ -15,6 +15,7 @@ body {
   
   input[type="text"],
   input[type="email"],
+  input[type="phone number"],
   input[type="password"],
   input[type="submit"] {
     width: 100%;
